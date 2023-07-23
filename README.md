@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carolinaccper
-- 👀 I’m interested in makeup, cooking and trucrime documentarys 
+- 👀 I’m interested in makeup, cooking and truecrime docu
 - 🌱 I’m currently learning c and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
